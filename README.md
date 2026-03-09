@@ -1,6 +1,7 @@
 # iTerm Italic Dark
 
 A VS Code dark theme inspired by iTerm color contrast, with italic keywords and vivid syntax accents.
+![Theme preview](images/preview.png)
 
 ## Highlights
 
@@ -9,3 +10,9 @@ A VS Code dark theme inspired by iTerm color contrast, with italic keywords and 
 - Italic keywords and comments for a classic terminal-aesthetic coding style.
 - Expanded workbench coverage for tabs, lists, inputs, status bar, and diff colors.
 - Semantic token support enabled for modern language servers.
+
+## Gallery
+
+![Screenshot 1](images/pic1.png)
+
+![Screenshot 2](images/pic2.png)

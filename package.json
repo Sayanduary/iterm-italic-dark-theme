@@ -30,6 +30,11 @@
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.png",
+"galleryBanner": {
+  "color": "#000000",
+  "theme": "dark"
+},
   "contributes": {
     "themes": [
       {
