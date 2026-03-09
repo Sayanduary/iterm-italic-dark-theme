@@ -3,7 +3,7 @@
   "displayName": "iTerm Italic Dark",
   "description": "A dark iTerm-inspired theme with italic keywords and vibrant syntax colors.",
   "version": "0.0.1",
-  "publisher": "your-name",
+  "publisher": "SayanDuary",
   "license": "MIT",
   "keywords": [
     "theme",
@@ -20,7 +20,7 @@
     "url": "https://github.com/Sayanduary/iterm-italic-dark-theme/issues"
   },
   "homepage": "https://github.com/Sayanduary/iterm-italic-dark-theme#readme",
-    "engines": {
+  "engines": {
     "vscode": "^1.74.0"
   },
   "scripts": {
