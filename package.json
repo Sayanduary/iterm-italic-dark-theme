@@ -1,0 +1,40 @@
+{
+  "name": "iterm-italic-dark-theme",
+  "displayName": "iTerm Italic Dark",
+  "description": "A dark iTerm-inspired theme with italic keywords and vibrant syntax colors.",
+  "version": "0.0.1",
+  "publisher": "your-name",
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "iterm",
+    "italic",
+    "terminal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sayanduary/iterm-italic-dark-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sayanduary/iterm-italic-dark-theme/issues"
+  },
+  "homepage": "https://github.com/Sayanduary/iterm-italic-dark-theme#readme",
+    "engines": {
+    "vscode": "^1.74.0"
+  },
+  "scripts": {
+    "package": "npx @vscode/vsce package",
+    "publish": "npx @vscode/vsce publish"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "iTerm Italic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/iTerm Italic Dark-color-theme.json"
+      }
+    ]
+  }
+}
