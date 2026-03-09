@@ -25,13 +25,13 @@
     "editorBracketMatch.background": "#55ffff1f",
     "editorBracketMatch.border": "#55ffff66",
 
-    "activityBar.background": "#0a0a0a",
+    "activityBar.background": "#000308",
     "activityBar.foreground": "#bbbbbb",
     "activityBar.inactiveForeground": "#555555",
     "activityBar.activeBorder": "#3B3BB2",
     "activityBar.border": "#222222",
 
-    "sideBar.background": "#0a0a0a",
+    "sideBar.background": "#000308",
     "sideBar.foreground": "#bbbbbb",
     "sideBar.border": "#222222",
     "sideBarTitle.foreground": "#bbbbbb",
@@ -39,7 +39,7 @@
     "sideBarSectionHeader.foreground": "#888888",
     "sideBarSectionHeader.border": "#222222",
 
-    "panel.background": "#08080a",
+    "panel.background": "#000308",
     "panel.border": "#2a2a34",
     "panel.dropBorder": "#3B3BB2",
     "panelTitle.activeForeground": "#d6d6df",
@@ -50,7 +50,7 @@
     "panelSectionHeader.foreground": "#9a9aaa",
     "panelSectionHeader.border": "#22222a",
 
-    "statusBar.background": "#0a0a0a",
+    "statusBar.background": "#000308",
     "statusBar.foreground": "#888888",
     "statusBar.border": "#222222",
 
@@ -63,12 +63,12 @@
     "tab.activeBackground": "#1a1a1a",
     "tab.activeForeground": "#bbbbbb",
     "tab.activeBorderTop": "#3B3BB2",
-    "tab.inactiveBackground": "#0a0a0a",
+    "tab.inactiveBackground": "#000308",
     "tab.inactiveForeground": "#444444",
     "tab.border": "#222222",
 
     "editorGroup.border": "#222222",
-    "editorGroupHeader.tabsBackground": "#0a0a0a",
+    "editorGroupHeader.tabsBackground": "#000308",
 
     "scrollbarSlider.background": "#33333380",
     "scrollbarSlider.hoverBackground": "#44444480",
@@ -172,21 +172,21 @@
       "name": "Special Variables",
       "scope": ["variable.language", "variable.parameter"],
       "settings": {
-        "foreground": "#ff5555"
+        "foreground": "#47FFFF"
       }
     },
     {
       "name": "Types",
       "scope": ["entity.name.type", "support.type", "storage.type"],
       "settings": {
-        "foreground": "#55ffff"
+        "foreground": "#DB4755"
       }
     },
     {
       "name": "Properties",
       "scope": ["variable.other.property"],
       "settings": {
-        "foreground": "#55ffff"
+        "foreground": "#DB4755"
       }
     },
     {
@@ -219,11 +219,11 @@
     },
     "method": "#3B3BB2",
     "variable": "#bbbbbb",
-    "property": "#55ffff",
-    "parameter": "#ff5555",
-    "type": "#55ffff",
-    "class": "#55ffff",
-    "enum": "#55ffff",
+    "property": "#DB4755",
+    "parameter": "#55ffff",
+    "type": "#DB4755",
+    "class": "#DB4755",
+    "enum": "#DB4755",
     "enumMember": "#ff55ff",
     "number": "#ff55ff",
     "string": "#55ff55"
