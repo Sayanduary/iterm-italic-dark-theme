@@ -2,7 +2,7 @@
   "name": "iterm-italic-dark-theme",
   "displayName": "iTerm Italic Dark",
   "description": "A dark iTerm-inspired theme with italic keywords and vibrant syntax colors.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "SayanDuary",
   "license": "MIT",
   "keywords": [
@@ -27,7 +27,9 @@
     "package": "npx @vscode/vsce package",
     "publish": "npx @vscode/vsce publish"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
